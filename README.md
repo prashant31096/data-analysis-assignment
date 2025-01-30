@@ -18,7 +18,8 @@ The assignment involves:
 - Identified **voltage drops, peaks, and downward acceleration cycles**.
 
 ## 📂 Files in this Repo
-- `data_visualization.py` → Python script for data processing & visualization.
+- `assignment.py` → Python script for data processing & visualization.
 - `Sample_Data.csv` → Provided dataset.
-- `greencell_assignment.xlsx` → Excel visualization.
-- `requirements.txt` → Python dependencies.
+- `greencell_assignment.jpynb` → Excel visualization.
+- `figure_1` → initial plot of voltage vs timestamp
+- `figure_2` → final plot of voltage vs timestamp along withmoving average, peaks and lows.
