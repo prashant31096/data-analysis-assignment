@@ -1,4 +1,4 @@
-# Greencell Internship Assignment 🚀
+# Data Analysis Assignment 🚀
 
 This repository contains my data analysis and visualization submission for the **Greencell Internship (Jan 2025)**. 
 
@@ -20,6 +20,6 @@ The assignment involves:
 ## 📂 Files in this Repo
 - `assignment.py` → Python script for data processing & visualization.
 - `Sample_Data.csv` → Provided dataset.
-- `greencell_assignment.jpynb` → Excel visualization.
+- `Data_analysis_assignment.jpynb` → Excel visualization.
 - `figure_1` → initial plot of voltage vs timestamp
 - `figure_2` → final plot of voltage vs timestamp along withmoving average, peaks and lows.
